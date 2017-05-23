@@ -1,2 +1,3 @@
 # hello-world
 My first repository in GitHub
+A classy land surveyor walking in the long code way...
